@@ -83,7 +83,7 @@ While this is a Strategic Management project, it reflects the core mindset of a 
 
 **Vikas Kapse** — Data Analyst | Business Intelligence | Stuttgart, Germany
 
-- 🎓 M.Eng. Business Intelligence & Data Analytics — Hochschule Emden/Leer *(GPA: 1.6)*
+- 🎓 M.Eng. Business Intelligence & Data Analytics — Hochschule Emden/Leer 
 - 💼 Ex-Data Analyst Intern @ **Mercedes-Benz AG** (Power BI, SQL, Python, Grafana)
 - 🛠️ Skills: Power BI · Tableau · SQL · Python · R · SAP · Jira · Excel
 - 🌍 Languages: English (C1) · German (B1)
