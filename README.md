@@ -1,6 +1,6 @@
 # ✈️ Fast and Fearless: Air India Meets McDonald's — Strategic Partnership Analysis
 
-> **Strategic Management Case Study** | Hochschule Emden/Leer | Prof. Dr. Olaf Passenheim | June 2024
+> **Strategic Management Case Study** | Hochschule Emden/Leer | June 2024
 
 ---
 
